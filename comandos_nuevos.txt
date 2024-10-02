@@ -1,0 +1,22 @@
+#creacion proyectos libros
+npm create vite@lates proyecto_libros
+cd proyecto_libros
+npm i 
+code .
+
+#creo el archivo workspace
+
+#creo la carpeta de carpetas personalizadas
+md src\assets\img
+md src\app\componets
+md src\app\componets\conetenedor 
+md src\app\componets\libros						
+md src\app\componets\otros
+md src\app\mocks
+md src\app\modelos
+md src\app\utilidades
+md src\app\utilidades\dominios
+md src\app\utilidades\funciones
+md src\app\utilidades\misHooks
+md src\app\utilidades\rutas
+
